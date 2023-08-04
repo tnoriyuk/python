@@ -1,0 +1,6 @@
+/.venv/
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
+.mypy_cache/
